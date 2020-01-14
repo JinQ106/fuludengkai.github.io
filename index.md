@@ -13,6 +13,6 @@
   </tr>
 </table>
 # PUBLICATION
-基于物品的统一推荐模型
+Unified Recommendation Model Based on Items
 # RESEARCH
 RECOMMENDATION SYSTEM
