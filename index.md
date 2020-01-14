@@ -4,7 +4,7 @@
     <td width="75%">
       <h1>邓凯</h1>
       <p><b>硕士研究生</b></p>
-      <p><b>贵州大学计算机学院</b></p>
+      <p><b>School of Computer Science and Technology, Guizhou University</b></p>
       <p><b>邮箱：kai_deng@126.com</b></p>
     </td>
     <td width="25%">
